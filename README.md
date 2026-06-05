@@ -203,3 +203,12 @@ This is the **dynamics shaping** layer in the DJ metaphor product stack:
 ## License
 
 MIT
+
+## See Also
+- **ternary-wave** — related
+- **ternary-gate** — related
+- **ternary-rack** — related
+- **ternary-sampler** — related
+- **ternary-grain** — related
+- **ternary-tempo** — related
+
