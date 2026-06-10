@@ -1,4 +1,6 @@
 [package]
+description = "ternary-envelope - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/ternary-envelope"
 name = "ternary-envelope"
 version = "0.1.0"
 edition = "2021"
